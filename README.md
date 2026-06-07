@@ -51,12 +51,21 @@ I enjoy solving algorithmic problems, structuring clean code, and constantly exp
 
 ---
 
-### 🌐 Let's Connect!
-<p align="left">
-<a href="https://www.linkedin.com/in/fandi-eka-pratama-60b7bb368" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25"/></a>
-<a href="https://instagram.com/uvall._" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25"/></a>
-<a href="mailto:fandiekap.0612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25"/></a>
-</p>
+### 📫 Connect with me  
+<div>
+  <a href="https://www.linkedin.com/in/fandi-eka-pratama-60b7bb368" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px;" />
+  </a>
+  <a href="https://instagram.com/uvall._" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin: 5px;" />
+  </a>
+  <a href="mailto:fandiekap.0612@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin: 5px;" />
+  </a>
+  <a href="https://github.com/Zeldrise" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px;" />
+  </a>  
+</div>
 
 <br/>  
 
