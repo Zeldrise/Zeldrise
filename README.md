@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=40&animation=fadeIn" alt="Header Banner" />
+</div>
 ### <div> Hi there, I'm Fandi Eka Pratama 👋 </div>
 ### <div> Computer Science Student & Aspiring Full-Stack Developer </div>
 
@@ -76,10 +79,7 @@ I enjoy solving algorithmic problems, structuring clean code, and constantly exp
 </div>
 
 <br/>
-<br>
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Zeldrise&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</div>
-<br/>
+
 ---
+
 <div align="center">Driven by logic, powered by code. 💻</div>
