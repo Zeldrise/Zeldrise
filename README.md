@@ -1,7 +1,7 @@
-### <div align="center"> Hi there, I'm Fandi Eka Pratama 👋 </div>
-### <div align="center"> Computer Science Student & Aspiring Full-Stack Developer </div>
+### <div> Hi there, I'm Fandi Eka Pratama 👋 </div>
+### <div> Computer Science Student & Aspiring Full-Stack Developer </div>
 
-<div align="center">
+<div>
 I am a passionate Computer Science student dedicated to mastering web development and modern software engineering principles. My ultimate goal is to become a robust Full-Stack Developer who can build scalable, efficient, and user-centric digital solutions.
 
 I enjoy solving algorithmic problems, structuring clean code, and constantly expanding my technical horizon by learning new frameworks and tools.
@@ -71,7 +71,8 @@ I enjoy solving algorithmic problems, structuring clean code, and constantly exp
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeldrise&theme=radical&hide_border=false" alt="Zeldrise's GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zeldrise&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="Zeldrise's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zeldrise&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
