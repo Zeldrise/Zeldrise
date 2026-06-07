@@ -71,9 +71,8 @@ I enjoy solving algorithmic problems, structuring clean code, and constantly exp
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zeldrise&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="Zeldrise's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zeldrise&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</div> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeldrise&theme=radical&hide_border=false" alt="Zeldrise's GitHub Streak" />
+</div>
 
 <br/>
 
