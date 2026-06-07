@@ -76,6 +76,10 @@ I enjoy solving algorithmic problems, structuring clean code, and constantly exp
 </div>
 
 <br/>
-
+<br>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Zeldrise&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</div>
+<br/>
 ---
 <div align="center">Driven by logic, powered by code. 💻</div>
