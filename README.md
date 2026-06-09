@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=40&animation=fadeIn" alt="Header Banner" />
-</div>
 ### <div> Hi there, I'm Fandi Eka Pratama 👋 </div>
 ### <div> Computer Science Student & Aspiring Full-Stack Developer </div>
 
